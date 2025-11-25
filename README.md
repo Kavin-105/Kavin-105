@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavin___ocr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-rk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavin519088@gmail.com) 
 
 ## 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kavin-105?theme=default&ext=activity)](https://leetcode.com/Kavin-105)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kavin-105?theme=default&ext=activity)](https://leetcode.com/u/Kavin_105/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
