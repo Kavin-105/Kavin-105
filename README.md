@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-105&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kavin-105&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kavin_105&icon=0&color=0)](https://visitcount.itsvg.in)
 ****
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@
 
 
 ## leetcode:
-[![Kavin LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kavin_105&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kavin_105&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavin___ocr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-rk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavin519088@gmail.com) 
