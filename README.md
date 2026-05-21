@@ -3,11 +3,8 @@
 </div>
 <h1 align="center" style="color:#0A2E6B; font-family:'Fira Code', monospace;">
   Hi 👋, I'm Kavin
-</h1>
-
-<p align="center">
   <b><i style="color:#0A2E6B;">Aspiring Software Developer</i></b>
-</p>
+</h1>
 
 
 ## About me:
