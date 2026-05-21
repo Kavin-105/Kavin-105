@@ -21,10 +21,9 @@
 
 ## Streak Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/Kavin_105?theme=dark" width="320"/>
-  <img src="https://streak-stats.demolab.com?user=Kavin-105&theme=tokyonight&hide_border=true" width="320"/>
-</div>
+
+  <img src="https://leetcard.jacoblin.cool/Kavin_105?theme=dark"/><br>
+  <img src="https://streak-stats.demolab.com?user=Kavin-105&theme=tokyonight&hide_border=true"/>
 
 ---
 <p align="center">
