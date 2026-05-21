@@ -1,9 +1,10 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kavin-105&label=Views&color=0A2E6B&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Kavin105new&label=Views&color=0A2E6B&style=for-the-badge" />
 </div>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&duration=4000&color=000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kavin" />
-</h3>
+<h1 align="center" style="color:#0A2E6B; font-family:'Fira Code', monospace;">
+  Hi 👋, I'm Kavin
+</h1>
+
 <p align="center">
   <b><i style="color:#0A2E6B;">Aspiring Software Developer</i></b>
 </p>
