@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kavin105new&label=Views&color=0A2E6B&style=for-the-badge" />
 </div>
 <h1 align="center" style="color:#0A2E6B; font-family:'Fira Code', monospace;">
-  Hi 👋, I'm Kavin
+  Hi 👋, I'm Kavin <br>
   <b><i style="color:#0A2E6B;">Aspiring Software Developer</i></b>
 </h1>
 
