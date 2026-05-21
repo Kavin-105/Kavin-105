@@ -1,10 +1,13 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Kavin105new&label=Views&color=0A2E6B&style=for-the-badge" />
 </div>
-<h1 align="center" style="color:#0A2E6B; font-family:'Fira Code', monospace;">
-  Hi 👋, I'm Kavin <br>
-  <b><i style="color:#0A2E6B;">Aspiring Software Developer</i></b>
-</h1>
+<h1 align="center">Hi 👋, I'm Kavin</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring Software Developer&center=true&width=500&height=50">
+  </a>
+</p>
 
 
 ## About me:
